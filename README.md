@@ -9,9 +9,9 @@ Navigate to [http://localhost:4200/](http://localhost:4200/).
 The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
-Run `ng new works --create-application=false` to generate a new Workspace.  
-
-Run `ng generate component component-name` to generate a new component.  
+1- Run `ng new works --create-application=false` to generate a new Workspace.  
+2- Run `ng g application {applicationName}` to generate a new application.  
+3- Run `ng generate component component-name` to generate a new component.  
 You can also use:
 
 - `ng generate directive`
