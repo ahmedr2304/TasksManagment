@@ -41,9 +41,3 @@ To use this command, you need to first add a package that implements end-to-end 
 
 To get more help on the Angular CLI, use `ng help`  
 or check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-
-** 1- WorkSpace:** Create new Workspace
-```
-ng new works --create-application=false
-```
